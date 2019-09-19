@@ -3,7 +3,7 @@ def new_hash
 end
 
 def my_hash
-  hash = { voila: haja, jdida: jdida}
+  hash = {:voila=> "haja"}
 end
 
 def pioneer
