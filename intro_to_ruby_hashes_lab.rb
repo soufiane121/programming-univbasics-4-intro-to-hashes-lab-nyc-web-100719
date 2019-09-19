@@ -8,6 +8,7 @@ end
 
 def pioneer
   # return a hash with a key of :name and a corresponding value of 'Grace Hopper'
+  hash = { name: "Grace"}
 end
 
 def id_generator
